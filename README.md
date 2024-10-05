@@ -1,35 +1,22 @@
-# Hi, I'm NDUBUAKU MIRACLE 👋
+# Hi, I'm Ndubuaku Miracle 👋
 
-**Data Scientist** and **Data Engineer** certification, combining expertise in **data automation**, **predictive modeling**, and **analytics** with strong programming and project management skills. Proficient in **SQL** and **Python** for transforming raw data into actionable insights, optimizing processes, and identifying potential risks to drive data-informed decision-making across quality, safety, and operational initiatives. Skilled in applying **machine learning** and creating impactful data visualizations using **Power BI**, **Tableau**, **Matplotlib**, and **Seaborn**.
+### Data Scientist • Data Engineer
 
-Committed to **sustainable practices** and continuous learning, I stay abreast of emerging trends in **data science**, **visualization techniques**, and **quality management** to consistently drive **operational excellence**.
+I'm a certified **Data Scientist** and **Data Engineer** with a passion for transforming data into actionable insights that drive decision-making and optimize processes. My expertise spans **data automation**, **predictive modeling**, and **analytics**, with strong programming skills in **SQL** and **Python**.
 
-🔍 **Key Focus Areas:**
-- **Data Science & Engineering:** Using tools like Python, R, SQL, and Power BI to build scalable data solutions.
-- **Operational Excellence (OpEx):** Applying Lean and Six Sigma principles to improve efficiency and processes.
-- **QHSE Management:** Leveraging Quality, Health, Safety, and Environmental management systems for data-driven compliance and risk reduction.
+I leverage tools like **Power BI**, **Tableau**, **Matplotlib**, and **Seaborn** to create impactful data visualizations, helping organizations identify potential risks and achieve operational excellence across **quality**, **safety**, and **business initiatives**.
 
+🔍 **Key Strengths:**
+- **Machine Learning:** Implementing predictive models to unlock data's potential.
+- **Data Automation:** Streamlining workflows for efficiency and scalability.
+- **Visualization:** Crafting data stories with Power BI, Tableau, Matplotlib, and Seaborn.
+- **Operational Focus:** Combining data science with quality management principles for continuous improvement.
 
-Feel free to explore my repositories, where you'll find my work on data science projects, machine learning models, and process optimization strategies.
+🌱 **Committed to sustainability** and continuous learning, I stay updated with the latest trends in **data science**, **visualization techniques**, and **quality management** to consistently enhance operational performance.
 
 ---
 
+Feel free to explore my repositories, where I showcase my projects in data science, automation, and visualization.
+
 🔗 **Let’s Connect:**
-[LinkedIn](www.linkedin.com/in/miracle-o-ndubuaku) • [Portfolio](https://yourwebsite.com) • [Email](mailto:ndubuakuoli@gmail.com)
-
-## Hi there 👋
-
-<!--
-**NdubuakuMiracle/NdubuakuMiracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/yourprofile) • [Email](mailto:your.email@example.com)
