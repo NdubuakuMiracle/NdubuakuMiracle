@@ -7,7 +7,7 @@ I'm a certified **Data Scientist** and **Data Engineer** with a passion for tran
 I leverage tools like **Power BI**, **Tableau**, **Matplotlib**, and **Seaborn** to create impactful data visualizations, helping organizations identify potential risks and achieve operational excellence across **quality**, **safety**, and **business initiatives**.
 
 🔍 **Key Strengths:**
-- 🤖 **Machine Learning:** Implementing predictive models to unlock data's potential.
+- 🛠️ **Data Engineering:** Building scalable data pipelines and architectures for seamless data flow.
 - ⚙️ **Data Automation:** Streamlining workflows for efficiency and scalability.
 - 📊 **Visualization:** Crafting data stories with Power BI, Tableau, Matplotlib, and Seaborn.
 - 🚀 **Operational Focus:** Combining data science with quality management principles for continuous improvement.
@@ -19,4 +19,4 @@ I leverage tools like **Power BI**, **Tableau**, **Matplotlib**, and **Seaborn**
 Feel free to explore my repositories, where I showcase my projects in **data science**, **automation**, and **visualization**.
 
 🔗 **Let’s Connect:**
-[LinkedIn](https://www.linkedin.com/in/miracle-o-ndubuaku/) • [Email](mailto:ndubuaku.oli@gmail.com) • [GitHub](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/miracle-o-ndubuaku/) • [Email](mailto:ndubuaku.oli@gmail.com) • [Portfolio](mailto:your.email@example.com)
