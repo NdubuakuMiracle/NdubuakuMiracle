@@ -1,4 +1,4 @@
-# Hi, Welcome to My Github profile! 👋
+# Hi, Welcome To My Github profile! 👋
 
 ### 💻 Data Scientist • Data Engineer
 
@@ -19,4 +19,4 @@ I leverage tools like **Power BI**, **Tableau**, **Matplotlib**, and **Seaborn**
 Feel free to explore my repositories, where I showcase my projects in **data science**, **automation**, and **visualization**.
 
 🔗 **Let’s Connect:**
-[LinkedIn](www.linkedin.com/in/miracle-o-ndubuaku) • [Email](mailto:your.email@example.com) • [GitHub](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/miracle-o-ndubuaku/) • [Email](mailto:ndubuaku.oli@gmail.com) • [GitHub](mailto:your.email@example.com)
