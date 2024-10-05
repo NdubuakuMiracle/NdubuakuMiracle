@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, NDUBUAKU MIRACLE 👋
 
 ### Data Scientist • Data Engineer | OpEx | QHSE-MS Analyst
 
