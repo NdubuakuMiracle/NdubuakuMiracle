@@ -1,4 +1,4 @@
-# Hi, I'm Ndubuaku Miracle 👋
+# Hi, Welcome to My Github profile! 👋
 
 ### 💻 Data Scientist • Data Engineer
 
