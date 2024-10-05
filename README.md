@@ -1,13 +1,6 @@
-# Hi, NDUBUAKU MIRACLE 👋
+# Hi, I'm NDUBUAKU MIRACLE 👋
 
-### Data Scientist • Data Engineer | OpEx | QHSE-MS Analyst
-
-Welcome to my GitHub profile! I'm a dedicated **Data Scientist** and **Data Engineer** passionate about transforming data into actionable insights that drive innovation and operational excellence. With a strong background in **data automation**, **predictive modeling**, and **advanced analytics**, I bridge the gap between technology and business processes.
-
-
-🚀 **What I Do:**
-
-**Data Scientist** with **ISO Management Systems Auditor** certification, combining expertise in **data automation**, **predictive modeling**, and **analytics** with strong programming and project management skills. Proficient in **SQL** and **Python** for transforming raw data into actionable insights, optimizing processes, and identifying potential risks to drive data-informed decision-making across quality, safety, and operational initiatives. Skilled in applying **machine learning** and creating impactful data visualizations using **Power BI**, **Tableau**, **Matplotlib**, and **Seaborn**.
+**Data Scientist** and **Data Engineer** certification, combining expertise in **data automation**, **predictive modeling**, and **analytics** with strong programming and project management skills. Proficient in **SQL** and **Python** for transforming raw data into actionable insights, optimizing processes, and identifying potential risks to drive data-informed decision-making across quality, safety, and operational initiatives. Skilled in applying **machine learning** and creating impactful data visualizations using **Power BI**, **Tableau**, **Matplotlib**, and **Seaborn**.
 
 Committed to **sustainable practices** and continuous learning, I stay abreast of emerging trends in **data science**, **visualization techniques**, and **quality management** to consistently drive **operational excellence**.
 
@@ -22,7 +15,7 @@ Feel free to explore my repositories, where you'll find my work on data science 
 ---
 
 🔗 **Let’s Connect:**
-[LinkedIn](https://www.linkedin.com/in/yourprofile) • [Portfolio](https://yourwebsite.com) • [Email](mailto:your.email@example.com)
+[LinkedIn](www.linkedin.com/in/miracle-o-ndubuaku) • [Portfolio](https://yourwebsite.com) • [Email](mailto:ndubuakuoli@gmail.com)
 
 ## Hi there 👋
 
