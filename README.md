@@ -1,4 +1,5 @@
-# Hi, Welcome To My Github profile! 👋                   🔗 **###📫** [LinkedIn](https://www.linkedin.com/in/miracle-o-ndubuaku/) • [Email](mailto:ndubuaku.oli@gmail.com) • [Portfolio](mailto:your.email@example.com)
+# Hi, Welcome To My Github profile! 👋                                                                                                                                                   ###🔗
+[LinkedIn](https://www.linkedin.com/in/miracle-o-ndubuaku/) • [Email](mailto:ndubuaku.oli@gmail.com) • [Portfolio](mailto:your.email@example.com)
 
 ### 💻 Data Scientist • Data Engineer
 
