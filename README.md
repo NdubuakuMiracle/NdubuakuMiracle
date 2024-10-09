@@ -19,4 +19,4 @@ I leverage tools like **Power BI**, **Tableau**, **Matplotlib**, and **Seaborn**
 Feel free to explore my repositories, where I showcase my projects in **data science**, **automation**, and **visualization**.
 
 🔗 **Let’s Connect:**
-[LinkedIn](https://www.linkedin.com/in/miracle-o-ndubuaku/) • [Email](mailto:ndubuaku.oli@gmail.com) • [Portfolio](mailto:your.email@example.com)
+[LinkedIn](https://www.linkedin.com/in/miracle-o-ndubuaku/) • [Email](mailto:contact.ndubuaku@gmail.com) • [Portfolio](https://ndubuakumiracle.github.io/DataInsights/)
