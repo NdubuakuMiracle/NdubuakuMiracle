@@ -1,11 +1,7 @@
 # Hi, Welcome To My Github profile! 👋                                           
 
-### 💻 Data Scientist • Data Engineer
-
-### 👋 Hi, I’m **🔹 💻Data Scientist | MLOps 🔹Business Performance Analyst 🔹Lean Six Sigma OpEx | ISO 9001 Specialist**
+### 💻Data Scientist | MLOps • Business Performance Analyst • Lean Six Sigma OpEx | ISO 9001 Specialist**
 ---
-
-### 👋 Hi, I’m **🔹 💻Data Scientist | MLOps 🔹Business Performance Analyst 🔹Lean Six Sigma OpEx | ISO 9001 Specialist**
 
 🚀 **Driving Innovation Through Data, Automation, and Operational Excellence**  
 
