@@ -21,7 +21,7 @@ I’m passionate about bridging the gap between **data and strategy**, turning c
 - **Sustainability**: Committed to practices that deliver long-term value.  
 - **Collaboration**: Partnering across teams to amplify impact.
 
-💡 Let’s work together to drive innovation, optimize processes, and create meaningful change!  
+### 💡 Let’s work together to drive innovation, optimize processes, and create meaningful change!  
 ---
 
 🔗[LinkedIn](https://www.linkedin.com/in/miracle-o-ndubuaku/) • [Email](mailto:contact.ndubuaku@gmail.com) • [Portfolio](https://ndubuakumiracle.github.io/DataInsights/)
